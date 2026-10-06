@@ -39,7 +39,3 @@ pnpm exec wrangler deploy --dry-run
 ```
 
 Tests cover the card rules, 100 complete simulated matches, two-player games through the real API in both modes, stale/concurrent moves, private information, and presence notifications.
-
-## Hosting limits
-
-Cloudflare Workers and D1 usage limits apply. Rooms poll for updates while players have the game open, so traffic grows with the number of active players. Check usage in the Cloudflare dashboard before sharing widely.
