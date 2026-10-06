@@ -6,6 +6,12 @@
     "nodejs_compat"
   ],
   "workers_dev": true,
+  "routes": [
+  {
+    "pattern": "zirkhaki.fatemehsalmani.com",
+    "custom_domain": true
+  }
+],
   "d1_databases": [
     {
       "binding": "DB",
