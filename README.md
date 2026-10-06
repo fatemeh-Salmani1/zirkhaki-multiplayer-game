@@ -1,17 +1,9 @@
 # Zirkhaki Multiplayer Game
 
-An illustrated treasure card game for 2–8 players. Create a room, share its code, and play from separate phones or laptops without signing in.
+A treasure card game for 2–8 players. Create a room, share its code, and play from separate phones or laptops without signing in.
 
-Gameplay inspired by **Dead Man’s Draw**. The interface and illustrations were created for this digital project.
+Gameplay inspired by **Dead Man’s Draw**. The interface and illustrations were created for this project.
 
-## Features
-
-- Shared game state with server-validated turns and scoring
-- Classic and advanced modes, including special rings
-- Four adventurer avatars and illustrated treasure cards
-- First-turn explanations visible only to the acting player
-- Public card activity, collapsible history, and quit/return announcements
-- Responsive layout for desktop and mobile
 
 ## Stack
 
