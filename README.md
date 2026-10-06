@@ -38,4 +38,4 @@ pnpm build
 pnpm exec wrangler deploy --dry-run
 ```
 
-Tests cover the card rules, 100 complete simulated matches, two-player games through the real API in both modes, stale/concurrent moves, private information, and presence notifications.
+Tests cover the card rules, 100 complete simulated matches, two-player games through the real API in both modes, stale moves, private information, and presence notifications.
